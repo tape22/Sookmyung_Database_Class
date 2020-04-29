@@ -27,9 +27,9 @@
 	
 ### 4주차. ER Modeling을 사용한 데이터 모델링 [🔗]()
 	- 기본 개념
-  - Database 설계 개요
-  - ER 모델
-  - Database 설계 사례
-  - ER 스키마를 관계 모델의 Relation으로 사상
+ 	 - Database 설계 개요
+  	- ER 모델
+ 	 - Database 설계 사례
+  	- ER 스키마를 관계 모델의 Relation으로 사상
 	
 ### 5주차.
