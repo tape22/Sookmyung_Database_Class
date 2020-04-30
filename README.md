@@ -25,7 +25,7 @@
 	
 	
 	
-### 4주차. ER Modeling을 사용한 데이터 모델링 [🔗]()
+### 4주차. ER Modeling을 사용한 데이터 모델링 [🔗](https://github.com/tape22/Sookmyung_Database_Class/blob/master/4주차-02.md)
 	- 기본 개념
  	- Database 설계 개요
   	- ER 모델
