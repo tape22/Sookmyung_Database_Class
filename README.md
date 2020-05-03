@@ -12,7 +12,7 @@
 
 ## 📋목차
 
-### 1주차. DB와 DB 사용자 [🔗]()
+### 1주차. DB와 DB 사용자 [🔗](https://github.com/tape22/Sookmyung_Database_Class/blob/master/1주차-01.md)
 	- 기본 정의
 	- 데이터베이스의 예
 	- 데이터베이스 기술의 주요 특징
@@ -21,7 +21,7 @@
 	- DBMS를 사용하지 않는 경우
 
 
-### 2주차. DBMS 개념과 아키텍쳐  [🔗]()
+### 2주차. DBMS 개념과 아키텍쳐  [🔗](https://github.com/tape22/Sookmyung_Database_Class/blob/master/2주차-01.md)
 	-  데이터 모델
 	-  스키마와 인스턴스
 
