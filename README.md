@@ -43,4 +43,16 @@
  	- Database 설계 사례
   	- ER 스키마를 관계 모델의 Relation으로 사상
 	
-### 5주차.
+### 5주차. 관계 데이터 모델과 제약 조건 [🔗](https://github.com/tape22/Sookmyung_Database_Class/blob/master/5주차-02.md)
+	- 관계형 모델의 개념
+	- 릴레이션의 특징
+	- 관계형 무결성 제약 조건
+	- 릴레이션에 대한 갱신 연산
+
+### 6주차. BASIC SQL [🔗](https://github.com/tape22/Sookmyung_Database_Class/blob/master/6주차-02.md)
+	- basic sql 개요
+	- sql 데이터 정의
+	
+### 7주차. BASIC SQL [🔗](https://github.com/tape22/Sookmyung_Database_Class/blob/master/7주차-02.md)
+	- Retrieval Queries in SQL
+
